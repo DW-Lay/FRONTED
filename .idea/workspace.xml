@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc6b6859-5388-44d6-bdd9-5099de13c93e" name="Default Changelist" comment="" />
+    <list default="true" id="dc6b6859-5388-44d6-bdd9-5099de13c93e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CSS/lesson01/1.第一个CSS程序/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/lesson01/1.第一个CSS程序/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/lesson01/2.导入方式/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/lesson01/2.导入方式/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/html框图.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/2.基本标签学习.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/2.基本标签学习.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,22 +20,29 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1gGxOSk8PdS4XQ9FXXJfd5gHtF7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/audio" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/html" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaStudy\FRONTED\html" />
       <recent name="D:\javaStudy\FRONTED\resources\audio" />
       <recent name="D:\javaStudy\FRONTED\resources\video" />
       <recent name="D:\javaStudy\FRONTED\resources\image" />
@@ -56,10 +71,38 @@
       <option name="presentableId" value="Default" />
       <updated>1597754697793</updated>
       <workItem from="1597754700951" duration="9462000" />
+      <workItem from="1597843005792" duration="5289000" />
+      <workItem from="1597983433136" duration="601000" />
+      <workItem from="1598101165016" duration="5102000" />
     </task>
+    <task id="LOCAL-00001" summary="添加表单学习代码">
+      <created>1597847837170</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597847837170</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加表单学习代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加表单学习代码" />
   </component>
 </project>
