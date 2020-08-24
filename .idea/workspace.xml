@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc6b6859-5388-44d6-bdd9-5099de13c93e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS/lesson01/1.第一个CSS程序/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/lesson01/1.第一个CSS程序/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/lesson01/2.导入方式/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/lesson01/2.导入方式/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/html框图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/lesson01/3.基本选择器/1.标签选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/lesson01/3.基本选择器/2.类选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/lesson01/3.基本选择器/3.ID选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/lesson01/4.层次选择器/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/2.基本标签学习.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/2.基本标签学习.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/lesson01/2.导入方式/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/lesson01/2.导入方式/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -74,6 +73,7 @@
       <workItem from="1597843005792" duration="5289000" />
       <workItem from="1597983433136" duration="601000" />
       <workItem from="1598101165016" duration="5102000" />
+      <workItem from="1598275827490" duration="3525000" />
     </task>
     <task id="LOCAL-00001" summary="添加表单学习代码">
       <created>1597847837170</created>
@@ -82,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597847837170</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="添加了css的开始代码">
+      <created>1598275905813</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598275905813</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +110,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加表单学习代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加表单学习代码" />
+    <MESSAGE value="添加了css的开始代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加了css的开始代码" />
   </component>
 </project>
